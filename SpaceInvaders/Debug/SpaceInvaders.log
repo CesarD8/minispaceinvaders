@@ -1,0 +1,4 @@
+﻿  SpaceInvaders.cpp
+d:\c++ projects\spaceinvaders\spaceinvaders\spaceinvaders.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\spaceinvaders\spaceinvaders\spaceinvaders.cpp(140): warning C4018: '<': signed/unsigned mismatch
+  SpaceInvaders.vcxproj -> D:\C++ projects\SpaceInvaders\Debug\SpaceInvaders.exe
